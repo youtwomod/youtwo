@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "YouTwo is a powerful mod for Minecraft. Straight from the Vortex.",
+    "name": "YouTwo",
+    "uuid": "efa0d3c3-3cca-3924-827d-74433cc43a14",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "YouTwo is a powerful mod for Minecraft. Straight from the Vortex.",
+      "type": "data",
+      "uuid": "9eea1427-0835-3adc-87d7-fbb3748ec8e8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "ecbb7c86-9af7-311c-b156-e6a790198f66",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "YouTwo Dev Team"
+    ],
+    "url": "https://github.com/youtwomod"
+  }
+}

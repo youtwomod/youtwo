@@ -1,0 +1,60 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BlockOfBlack",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_black"
+    },
+    {
+      "name": "StupidVillager",
+      "type": "mob",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stupid_villager"
+    },
+    {
+      "name": "StrongPick",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strong_pick"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.spawn_egg.entity.youtwo_mod:stupid_villager.name": "Stupid Villager Spawn Egg",
+      "tile.youtwo_mod:block_of_black.name": "Block Of Black",
+      "item.youtwo_mod:strong_pick.name": "Strong Pick"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "youtwo_mod",
+    "modName": "YouTwo",
+    "version": "1.0.0",
+    "description": "YouTwo is a powerful mod for Minecraft. Straight from the Vortex.",
+    "author": "YouTwo Dev Team",
+    "websiteURL": "https://github.com/youtwomod",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "706ad06b7a32b3a0bcf9c72ed17b9980",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.16.x",
+    "modElementsPackage": "org.youtwo.youtwo",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

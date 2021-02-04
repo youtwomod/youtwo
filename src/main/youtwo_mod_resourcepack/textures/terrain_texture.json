@@ -1,0 +1,38 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 0,
+  "texture_data": {
+    "youtwo_mod_block_of_black_up": {
+      "textures": [
+        "textures/blocks/blockofblack"
+      ]
+    },
+    "youtwo_mod_block_of_black_down": {
+      "textures": [
+        "textures/blocks/blockofblack"
+      ]
+    },
+    "youtwo_mod_block_of_black_south": {
+      "textures": [
+        "textures/blocks/blockofblack"
+      ]
+    },
+    "youtwo_mod_block_of_black_north": {
+      "textures": [
+        "textures/blocks/blockofblack"
+      ]
+    },
+    "youtwo_mod_block_of_black_west": {
+      "textures": [
+        "textures/blocks/blockofblack"
+      ]
+    },
+    "youtwo_mod_block_of_black_east": {
+      "textures": [
+        "textures/blocks/blockofblack"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "youtwo_mod:block_of_black": {
+    "textures": {
+      "up": "youtwo_mod_block_of_black_up",
+      "down": "youtwo_mod_block_of_black_down",
+      "south": "youtwo_mod_block_of_black_south",
+      "north": "youtwo_mod_block_of_black_north",
+      "west": "youtwo_mod_block_of_black_west",
+      "east": "youtwo_mod_block_of_black_east"
+    },
+    "sound": "gravel"
+  }
+}

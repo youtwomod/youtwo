@@ -1,0 +1,49 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "youtwo_mod:stupid_villager",
+      "textures": {
+        "default": "textures/2021_02_04_steve-carrying-baby-slime-16628216.png",
+        "farmer": "textures/2021_02_04_steve-carrying-baby-slime-16628216.png",
+        "librarian": "textures/2021_02_04_steve-carrying-baby-slime-16628216.png",
+        "priest": "textures/2021_02_04_steve-carrying-baby-slime-16628216.png",
+        "smith": "textures/2021_02_04_steve-carrying-baby-slime-16628216.png",
+        "butcher": "textures/2021_02_04_steve-carrying-baby-slime-16628216.png"
+      },
+      "spawn_egg": {
+        "base_color": "#ff3333",
+        "overlay_color": "#ff0000"
+      },
+      "materials": {
+        "default": "villager"
+      },
+      "geometry": {
+        "default": "geometry.villager"
+      },
+      "scripts": {
+        "scale": "0.9375"
+      },
+      "animations": {
+        "general": "animation.villager.general.v1.0",
+        "look_at_target": "animation.common.look_at_target",
+        "move": "animation.villager.move",
+        "baby_transform": "animation.villager.baby_transform"
+      },
+      "animation_controllers": [
+        {
+          "general": "controller.animation.villager.general"
+        },
+        {
+          "move": "controller.animation.villager.move"
+        },
+        {
+          "baby": "controller.animation.villager.baby"
+        }
+      ],
+      "render_controllers": [
+        "controller.render.villager.v1.0"
+      ]
+    }
+  }
+}
