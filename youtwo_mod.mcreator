@@ -41,7 +41,7 @@
   "workspaceSettings": {
     "modid": "youtwo_mod",
     "modName": "YouTwo",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "YouTwo is a powerful mod for Minecraft. Straight from the Vortex.",
     "author": "YouTwo Dev Team",
     "websiteURL": "https://github.com/youtwomod",
@@ -53,6 +53,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "addon-1.16.x",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "org.youtwo.youtwo",
     "lockBaseModFiles": false
   },
